@@ -8,8 +8,8 @@
 | 3      | 19521326      | Trịnh Công Danh        |Thành viên |[danhtrinh15092001](https://github.com/danhtrinh15092001)|19521326@gm.uit.edu.vn   |
 
 ## GIỚI THIỆU MÔN HỌC
-* **Tên môn học:** MÁY HỌC - MACHINE LEARNING
+* **Tên môn học:** Phương pháp luận nghiên cứu khoa học
 * **Mã môn học:** CS114
-* **Mã lớp:** CS114.L22.KHCL
-* **Năm học:** HK2 (2020 - 2021)
+* **Mã lớp:** CS519.M11.KHCL
+* **Năm học:** HK1 (2021 - 2022)
 * **Giảng viên**: PGS.Lê Đình Duy
