@@ -9,7 +9,7 @@
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** Phương pháp luận nghiên cứu khoa học
-* **Mã môn học:** CS114
+* **Mã môn học:** CS519
 * **Mã lớp:** CS519.M11.KHCL
 * **Năm học:** HK1 (2021 - 2022)
 * **Giảng viên**: PGS.Lê Đình Duy
