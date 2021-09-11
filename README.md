@@ -20,3 +20,6 @@
 * **Mã lớp:** CS519.M11.KHCL
 * **Năm học:** HK1 (2021 - 2022)
 * **Giảng viên**: PGS.Lê Đình Duy
+
+<!-- Footer -->
+`Copyright © 2021 - Đỗ Trọng Khánh`
