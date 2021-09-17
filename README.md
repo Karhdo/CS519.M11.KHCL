@@ -35,7 +35,7 @@
     <td width="75%">
       + (4) Xem kết quả thực nghiệm.</br>
       + (5) Đặt ra giả thiết mới.</br>
-      + (6) teamwork thực nghiệm và bàn luận vấn đề.
+      + (6) Teamwork để thực nghiệm và bàn luận vấn đề.
     </td>
   </tr>
   <table>
