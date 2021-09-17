@@ -28,14 +28,14 @@
   <table>
   <tr>
     <td width="30%">
-      (1) Quan sát.</br>
-      (2) Đặt giả định.</br>
-      (3) Thực nghiệm.</br>
+      + (1) Quan sát.</br>
+      + (2) Đặt giả định.</br>
+      + (3) Thực nghiệm.</br>
     </td>
     <td width="70%">
-      (4) Xem kết quả thực nghiệm.</br>
-      (5) Đặt ra giả thiết mới.</br>
-      (6) Teamwork để thực nghiệm và bàn luận vấn đề.</br>
+      + (4) Xem kết quả thực nghiệm.</br>
+      + (5) Đặt ra giả thiết mới.</br>
+      + (6) Teamwork để thực nghiệm và bàn luận vấn đề.</br>
      </td>
   </tr>
   <table>
