@@ -39,6 +39,7 @@
     </td>
   </tr>
   <table>
+  
   - Tiếp tục đặt vấn đề, thực nghiệm, và xem xét kết quả cho đến khi ra được kết quả cuối cùng thì bước cuối cùng là nên chia sẻ điều kết quả nghiên cứu của mình với người khác.</br>
   - Quy trình đơn giản như này nhưng nó áp dụng từ những vấn đề, hiện tượng nhỏ nhất trong đời sống.</br>
 
