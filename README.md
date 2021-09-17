@@ -27,12 +27,12 @@
   - Khoa học là những cái mà mình tìm hiểu và thắc mắc về bất cứ điều gì trong thế giới này. Quy trình một vấn đề khoa học được giải quyết là: 
   <table>
   <tr>
-    <td width="25%">
+    <td width="30%">
       + (1) Quan sát.</br>
       + (2) Đặt giả định.</br>
       + (3) Thực nghiệm.
     </td>
-    <td width="75%">
+    <td width="70%">
       + (4) Xem kết quả thực nghiệm.</br>
       + (5) Đặt ra giả thiết mới.</br>
       + (6) Teamwork để thực nghiệm và bàn luận vấn đề.
