@@ -48,6 +48,5 @@
   - Nghiên cứu cơ bản là hoạt động nghiên cứu nhằm khám phá bản chất, quy luật của sự vật, hiện tượng tự nhiên, xã hội và tư duy.
   - Nghiên cứu ứng dụng là hoạt động nghiên cứu vận dụng kết quả nghiên cứu khoa học nhằm tạo ra công nghệ mới, đổi mới công nghệ phục vụ lợi ích của con người    và xã hội.
 
-</br>
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
