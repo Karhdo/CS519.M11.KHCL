@@ -23,6 +23,7 @@
 
 ## QUÁ TRÌNH
 ### Week 1: What is Science and Research
+#### 1. What is Science.
   - Khoa học là những cái mà mình tìm hiểu và thắc mắc về bất cứ điều gì trong thế giới này. Quy trình một vấn đề khoa học được giải quyết là: 
     <table>
         <tr>
@@ -39,7 +40,12 @@
         </tr>
         <table>
   - Tiếp tục đặt vấn đề, thực nghiệm, và xem xét kết quả cho đến khi ra được kết quả cuối cùng thì bước cuối cùng là nên chia sẻ điều kết quả nghiên cứu của mình với người khác. 
-  - Quy trình đơn giản như này nhưng nó áp dụng từ những vấn đề, hiện tượng nhỏ nhất trong đời sống.
+  - Quy trình đơn giản như này nhưng nó áp dụng từ những vấn đề, hiện tượng nhỏ nhất trong đời sống.</br>
+
+#### 2. Research.
+  - Nghiên cứu khoa học là hoạt động khám phá, phát hiện, tìm hiểu bản chất, quy luật của sự vật, hiện tượng tự nhiên, xã hội và tư duy; sáng tạo giải pháp nhằm  ứng dụng vào thực tiễn.
+  - Nghiên cứu cơ bản là hoạt động nghiên cứu nhằm khám phá bản chất, quy luật của sự vật, hiện tượng tự nhiên, xã hội và tư duy.
+  - Nghiên cứu ứng dụng là hoạt động nghiên cứu vận dụng kết quả nghiên cứu khoa học nhằm tạo ra công nghệ mới, đổi mới công nghệ phục vụ lợi ích của con người    và xã hội.
 
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
