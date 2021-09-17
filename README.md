@@ -25,21 +25,21 @@
 ### Week 1: What is Science and Research
 #### 1. What is Science.
   - Khoa học là những cái mà mình tìm hiểu và thắc mắc về bất cứ điều gì trong thế giới này. Quy trình một vấn đề khoa học được giải quyết là: 
-    <table>
-        <tr>
-          <td width="25%">
-            + (1) Quan sát.</br>
-            + (2) Đặt giả định.</br>
-            + (3) Thực nghiệm.
-          </td>
-          <td width="75%">
-            + (4) Xem kết quả thực nghiệm.</br>
-            + (5) Đặt ra giả thiết mới.</br>
-            + (6) Chúng ta cũng có thể teamwork để tăng cường thực nghiệm và bàn luận vấn đề.
-          </td>
-        </tr>
-        <table>
-  - Tiếp tục đặt vấn đề, thực nghiệm, và xem xét kết quả cho đến khi ra được kết quả cuối cùng thì bước cuối cùng là nên chia sẻ điều kết quả nghiên cứu của mình với người khác. 
+  <table>
+  <tr>
+    <td width="25%">
+      + (1) Quan sát.</br>
+      + (2) Đặt giả định.</br>
+      + (3) Thực nghiệm.
+    </td>
+    <td width="75%">
+      + (4) Xem kết quả thực nghiệm.</br>
+      + (5) Đặt ra giả thiết mới.</br>
+      + (6) Chúng ta cũng có thể teamwork để tăng cường thực nghiệm và bàn luận vấn đề.
+    </td>
+  </tr>
+  <table>
+  - Tiếp tục đặt vấn đề, thực nghiệm, và xem xét kết quả cho đến khi ra được kết quả cuối cùng thì bước cuối cùng là nên chia sẻ điều kết quả nghiên cứu của mình với người khác.</br>
   - Quy trình đơn giản như này nhưng nó áp dụng từ những vấn đề, hiện tượng nhỏ nhất trong đời sống.</br>
 
 #### 2. Research.
