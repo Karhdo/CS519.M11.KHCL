@@ -1,4 +1,4 @@
-<h1 align='center'> Sentence Paragraph </h1>
+<h1 align='center'>5 Sentence Paragraph </h1>
 
 - 5 Sentence Paragraph là kiểu viết đoạn văn đầu tiên được dạy cho học sinh tiểu học. Cách viết loại văn bản này sẽ là nền tảng cho các loại văn bản trong tương lai.
 5 Sentence Paragraph bao gồm 1 đoạn mở đầu là đề cập ý chính, 3 đoạn tiếp theo sẽ giải thích cho ý chính đó với các lý do, chi tiết hoặc sự kiện và đoạn còn lại là đoạn kết luận
