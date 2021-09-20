@@ -50,7 +50,7 @@
 
 ### Week 2: 5W1H and Sentence Paragraph.
   1. [5W1H](Week_2/5W1H.md).
-  2. [Sentence Paragraph](Week_2/Sentence_Paragraph.md)
+  2. [5 Sentence Paragraph](Week_2/Sentence_Paragraph.md).
 
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
