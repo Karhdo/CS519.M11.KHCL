@@ -52,5 +52,6 @@
   1. [5W1H](Week_2/5W1H.md).
   2. [5 Sentence Paragraph](Week_2/Sentence_Paragraph.md).
 
+### Week 3: Critical Thinking (Tư duy phản biện).
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
