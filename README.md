@@ -53,5 +53,32 @@
   2. [5 Sentence Paragraph](Week_2/Sentence_Paragraph.md).
 
 ### Week 3: Critical Thinking (Tư duy phản biện).
+#### 1. Critical thinking là gì?
+  - Critical thinking được hiểu theo nghĩa tiếng Việt là tư duy phản biện. Đây là quá trình phân tích, đánh giá, chất vấn cả giả thiết hoặc giả định để một người hình thành cách suy nghĩ, đưa ra quan điểm trước vấn đề nào đó và chứng minh, bảo vệ luận điểm của mình một cách logic, nhất quán
+và phản bác lại những ý kiến trái chiều.
+#### 2. Các cấp độ của Critical thinking.
+  - Critical thinking chia thành 6 cấp độ theo thứ tự từ thấp đến cao:
+  <table>
+  <tr>
+    <td>
+      + Cấp độ 1: Trình bày nội dung.</br>
+      + Cấp độ 2: Cấu trúc nói.</br>
+      + Cấp độ 3: Tranh luận cơ bản.</br>
+    </td>
+    <td>
+      + Cấp độ 4: Tranh luận hiệu quả.</br>
+      + Cấp độ 5: Thực hành thường xuyên.</br>
+      + Cấp độ 6: Tư duy hiệu quả.</br>
+     </td>
+  </tr>
+  <table>
+
+#### 3. Tầm quan trọng của Critical thinking.
+  - Critical thinking là kỹ năng không thể thiếu trong mọi lĩnh vực và ngành nghề của cuộc sống, giúp con người nâng cao khả năng lập luận đa chiều, rõ ràng.
+  - Critical thinking đóng vai trò quan trọng trong sự phát triển và thay đổi của nền kinh tế tri thức mới. Mỗi người đều cần có tư duy linh hoạt cùng khả năng phân tích, đánh giá, sáng tạo để tích hợp thông tin cần thiết và giải quyết vấn đề.
+  - Critical thinking giúp đưa ra những ý tưởng mới, đồng thời còn góp phần điều chỉnh chiến lược kinh doanh phù hợp với doanh nghiệp khi cần thiết.
+  - Con người cần Critical thinking để nhìn nhận và đánh giá bản thân, từ đó tự điều chỉnh và đưa ra những quyết định đúng đắn, phù hợp công việc và cuộc sống của mình.
+  - Critical thinking là nền móng của ngành khoa học và xã hội dân chủ. Tư duy phản biện gúp con người suy nghĩ sáng suốt hơn về các vấn đề xã hội, vượt qua các định kiến và lan tỏa nhiều thông điệp ý nghĩa đến toàn cộng đồng.
+  
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
