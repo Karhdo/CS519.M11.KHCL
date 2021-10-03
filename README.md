@@ -79,6 +79,8 @@ và phản bác lại những ý kiến trái chiều.
   - Critical thinking giúp đưa ra những ý tưởng mới, đồng thời còn góp phần điều chỉnh chiến lược kinh doanh phù hợp với doanh nghiệp khi cần thiết.
   - Con người cần Critical thinking để nhìn nhận và đánh giá bản thân, từ đó tự điều chỉnh và đưa ra những quyết định đúng đắn, phù hợp công việc và cuộc sống của mình.
   - Critical thinking là nền móng của ngành khoa học và xã hội dân chủ. Tư duy phản biện gúp con người suy nghĩ sáng suốt hơn về các vấn đề xã hội, vượt qua các định kiến và lan tỏa nhiều thông điệp ý nghĩa đến toàn cộng đồng.
-  
+
+### Week 4: Practice Critical Thinking.
+#### Topic của nhóm: Có nên đi làm thêm ở môi trường Đại học ?
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
