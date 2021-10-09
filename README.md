@@ -86,5 +86,8 @@ và phản bác lại những ý kiến trái chiều.
     + Sinh viên đi làm thêm sẽ được tiền, điều đó là chắc chắn, công sức lao động bỏ ra và hiển nhiên bạn được hưởng những gì bạn đã làm. Làm thêm sẽ giúp bạn có thêm nhiều về kỹ năng trong cuộc sống đặc biệt là kỹ năng giao tiếp. Môi trường làm việc giúp bạn phải gặp gỡ nhiều người điều đó sẽ giúp bạn khôn khéo hơn trong việc giao tiếp. Khi kỹ năng giao tiếp tốt bạn sẽ làm quen được với nhiều người, mở rộng được mối quan hệ, tiếp thu được nhiều kinh nghiệm khi đi làm những công việc liên quan đến ngành mình học
     + Khi đi làm thêm sinh viên sẽ không sắp xếp được thời gian giữa việc học và làm, rất dễ ảnh hưởng đến quá trình học tập. Nghiêm trọng hơn nếu việc làm đó mang lại thu nhập khá cao cho sinh viên, dẫn đến việc sinh việc sẽ ham đi làm và bỏ dở việc học của mình
   - Theo quan điểm của nhóm: Sinh viên đại học không nên đi làm thêm, đi làm thêm chỉ khi gia đình của sinh viên thật sự khó khăn và sinh viên muốn kiếm thêm thu nhập để giúp đỡ gia đình. Ngoài ra, sinh viên nên đi làm thêm khi việc mình làm có vận dụng kiến thức đang học ở trường học, việc này sẽ giúp bổ sung kinh nghiệm, kiến thức cho sinh viên trong lĩnh vực mình đang học.
+  
+### Week 5: Quy Trình Thực Hiện Nghiên Cứu.
+
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
