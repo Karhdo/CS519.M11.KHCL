@@ -88,6 +88,27 @@ và phản bác lại những ý kiến trái chiều.
   - Theo quan điểm của nhóm: Sinh viên đại học không nên đi làm thêm, đi làm thêm chỉ khi gia đình của sinh viên thật sự khó khăn và sinh viên muốn kiếm thêm thu nhập để giúp đỡ gia đình. Ngoài ra, sinh viên nên đi làm thêm khi việc mình làm có vận dụng kiến thức đang học ở trường học, việc này sẽ giúp bổ sung kinh nghiệm, kiến thức cho sinh viên trong lĩnh vực mình đang học.
   
 ### Week 5: Quy Trình Thực Hiện Nghiên Cứu.
-
+#### 1. Nghiên cứu khoa học là gì?
+  - Nghiên cứu khoa học là hoạt động khám phá, phát hiện, tìm hiểu bản chất, quy luật của sự vật, hiện tượng tự nhiên, xã hội và tư duy, sáng tạo giải pháp nhằm ứng dụng vào thực tiễn.
+#### 2. Phân loại nghiên cứu khoa học:
+  - Phân loại theo chức năng nghiên cứu.
+  - Phân loại theo tính chất sản phẩm nghiên cứu.
+  - Phân loại theo lĩnh vực nghiên cứu.
+  - Phân loại theo phương pháp nghiên cứu.
+#### 3. Quy trình thực hiện nghiên cứu:
+  - Bước 1: Lựa chọn vấn đề nghiên cứu (Selecting a problem)
+    + Xác định đề tài, nhiệm vụ và đối tượng nghiên cứu, mục tiêu và mục đích nghiên cứu, các câu hỏi nghiên cứu cần được trả lời và các giả thuyết ban đầu tương ứng, đối tượng khảo sát và phạm vi nghiên cứu.
+  - Bước 2: Tổng quan tài liệu nghiên cứu (Reviewing the literature on the problem)
+    + Tổng quan các công trình nghiên cứu đã có, các nguồn thông tin, tư liệu có liên quan đến vấn đề nghiên cứu. Căn cứ trên kết quả tổng quan này để tiếp tục hoàn thiện vấn đề nghiên cứư, các câu hỏi nghiên cứu và các giả thuyết ban đầu.
+  - Bước 3: Thiết kế nghiên cứu (Designing the research)
+    + Bao gồm các nội dung: lựa chọn phương pháp nghiên cứu, phương pháp và công cụ thu thập dữ liệu, mấu khảo sát, dự kiến tiến độ,
+  - Bước 4: Thu thập dữ liệu (Collecting the data)
+    + Tổ chức thu thập các thông tin định tính hoặc định lượng theo các phương pháp và công cụ đã chọn ở bước 3.
+  - Bước 5: Phân tích dữ liệu (Analyzing the data)
+    + Từ các thông tin thu thập được, sử dụng các công cụ thống kê hoặc các phương pháp đặc thù để xử lí và phân tích dữ liệu.
+  - Bước 6: Tổng hợp kết quả và kết luận (Interpreting the findings and stating conclusions)
+    + Khái quát các kết quả xử lí và phân tích dữ liệu nhằm trả lời các xâu hỏi nghiên cứu, cung cấp các kết luận và các đề xuất, kiến nghị.
+  - Bước 7: Báo cáo kết quả (Reporting results)
+    + Người nghiên cứu lập báo cáo kết quả nghiên cứu để gửi đến các nhân, tổ chức quan tâm hoặc chịu trách nhiệm quản lí.
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
