@@ -110,5 +110,6 @@ và phản bác lại những ý kiến trái chiều.
     + Khái quát các kết quả xử lí và phân tích dữ liệu nhằm trả lời các xâu hỏi nghiên cứu, cung cấp các kết luận và các đề xuất, kiến nghị.
   - Bước 7: Báo cáo kết quả (Reporting results)
     + Người nghiên cứu lập báo cáo kết quả nghiên cứu để gửi đến các nhân, tổ chức quan tâm hoặc chịu trách nhiệm quản lí.
+### Week 6:
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
