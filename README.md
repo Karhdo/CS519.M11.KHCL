@@ -110,6 +110,19 @@ và phản bác lại những ý kiến trái chiều.
     + Khái quát các kết quả xử lí và phân tích dữ liệu nhằm trả lời các xâu hỏi nghiên cứu, cung cấp các kết luận và các đề xuất, kiến nghị.
   - Bước 7: Báo cáo kết quả (Reporting results)
     + Người nghiên cứu lập báo cáo kết quả nghiên cứu để gửi đến các nhân, tổ chức quan tâm hoặc chịu trách nhiệm quản lí.
-### Week 6:
+### Week 6: Luyện tập nhận diện và tóm tắt vấn đề.
+#### [Trong suy nghĩ của một chuyên gia trì hoãn.](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=vi#t-830538)
+  - Hành trình viết tiểu luận 90 trang của tác giả:
+    + Những tháng đầu không làm gì cả => Điều chỉnh kế hoạch.
+    + Những tháng tiếp theo vẫn vậy => Hạn deadline còn 3 ngày => Viết 90 trang trong 3 ngày.
+  - Tác giả đưa ra phân tích não người trì hoãn:
+  - Hành trình viết tiểu luận 90 trang của tác giả:
+    + Giống người bình thường (người quyết định theo lý lẽ)
+    + Có thêm con khỉ vui vẻ bất chợt => Con khỉ làm não người trì hoãn có những quyết định gây mất thời gian => Con khỉ chỉ muốn làm cái gì đó dễ và vui.
+  - Hành trình viết tiểu luận 90 trang của tác giả:
+    + Deadline tới gần => Con quái vật hoảng sợ xuất hiện => Con khỉ khiếp sợ.
+  - Hành trình viết tiểu luận 90 trang của tác giả => Bỏ vô lăng lại cho người quyết định theo lý lẽ
+  - Chúng ta không nên để nước tới chân mới nhảy, nó sẽ làm chúng ta trì trệ theo từng ngày
+  
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2021 - Đỗ Trọng Khánh`
