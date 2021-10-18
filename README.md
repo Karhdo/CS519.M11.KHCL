@@ -112,4 +112,4 @@ và phản bác lại những ý kiến trái chiều.
     + Người nghiên cứu lập báo cáo kết quả nghiên cứu để gửi đến các nhân, tổ chức quan tâm hoặc chịu trách nhiệm quản lí.
 ### Week 6:
 <!-- Footer -->
-<p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2021 - Đỗ Trọng Khánh`
