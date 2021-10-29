@@ -110,6 +110,7 @@ và phản bác lại những ý kiến trái chiều.
     + Khái quát các kết quả xử lí và phân tích dữ liệu nhằm trả lời các xâu hỏi nghiên cứu, cung cấp các kết luận và các đề xuất, kiến nghị.
   - Bước 7: Báo cáo kết quả (Reporting results)
     + Người nghiên cứu lập báo cáo kết quả nghiên cứu để gửi đến các nhân, tổ chức quan tâm hoặc chịu trách nhiệm quản lí.
+
 ### Week 6: Luyện tập nhận diện và tóm tắt vấn đề.
 #### Topic: [Trong suy nghĩ của một chuyên gia trì hoãn.](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=vi#t-830538)
   - Hành trình viết tiểu luận 90 trang của tác giả:
@@ -124,5 +125,31 @@ và phản bác lại những ý kiến trái chiều.
   - Hành trình viết tiểu luận 90 trang của tác giả => Bỏ vô lăng lại cho người quyết định theo lý lẽ
   - Chúng ta không nên để nước tới chân mới nhảy, nó sẽ làm chúng ta trì trệ theo từng ngày
   
+### Week 7: Luyện tập chọn và đặt câu hỏi cho nghiên cứu khoa học.
+#### Chủ đề nghiên cứu: Tác động của mạng xã hội Facebook đến nhận thức và hành vi của giới trẻ hiện nay
+
+1. Khái niệm của Facebook? (what)
+  - Facebook là một trong những mạng xã hội hàng đầu thế giới hiện nay, là nơi kết nối tất cả mọi người lại với nhau trên toàn thế giới
+
+2. Nguồn gốc của mạng xã hội Facebook có từ đâu? (where)
+  - Facebook được sáng lập bởi Mark Zuckerberg - một sinh viên học khoa máy tính trường Đại học Harvard. 
+
+3. Lợi ích của việc sử dụng Facebook
+  - Tính trò chuyện, kết nối cao hơn các mạng xã hội trước đó
+  - Dễ dàng kết nối, giao lưu với bạn bè, người thân trong và người nước
+  - Cập nhập thông tin nhanh chóng
+  - Là một công cụ giải trí hữu ích
+  - Là nơi kinh doanh, mua bán lí tưởng
+
+4. Facebook đã ảnh hưởng đến giới trẻ hiện nay như thế nào? (how)
+  - Thay vì trực tiếp nói chuyện ngoài đời thì giới trẻ hầu như chỉ dành thời gian để trao đổi trên Facebook.
+Dần dần sẽ mất các kỹ năng sống, kỹ năng xử lý tình huống
+  - Không ít người có biểu hiện “nghiện” Facebook như việc sử dụng trở thành thói quen, có hệ thống và tâm lý bị lệ thuộc mạnh
+mẽ. Đây cũng là một bệnh lý về tâm thần của người nghiện Facebook. Nếu không sử dụng thì những người “nghiện” Facebook này sẽ 
+có trạng thái nôn nao, khó chịu, buồn bã…
+
+5. Tại sao Facebook ảnh hưởng đến nhận thức và hành vi của giới trẻ? (why)
+  - Facebook là nơi phát tán nhiều thông tin "nhảm", những hình ảnh, video bạo lực,...  ảnh hưởng đến tinh thần của giới trẻ
+  - Trong những bài viết gây xôn xao dư luận, có rất nhiều bình luận mang tính tiêu cực ảnh hưởng đến người khác
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2021 - Đỗ Trọng Khánh`
