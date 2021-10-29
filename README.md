@@ -126,7 +126,14 @@ và phản bác lại những ý kiến trái chiều.
   - Chúng ta không nên để nước tới chân mới nhảy, nó sẽ làm chúng ta trì trệ theo từng ngày
   
 ### Week 7: Luyện tập chọn và đặt câu hỏi cho nghiên cứu khoa học.
-#### Chủ đề nghiên cứu: Tác động của mạng xã hội Facebook đến nhận thức và hành vi của giới trẻ hiện nay
+#### Đề tài nghiên cứu: Mạng xã hội - [video tham khảo](https://www.youtube.com/watch?v=EEuul8hBip8)
+Indetify:
+- Tác động của mạng xã hội Facebook đến nhận thức và hành vi của giới trẻ hiện nay
+- Nghiên cứu đề xuất xây dựng mạng xã hội học tập tại Việt Nam
+- Nghiên cứu về thông tin trên mạng và hệ thống hóa các loại hình thông tin trên mạng
+- Nghiên cứu về hiện tượng bạo lực học đường bị tung lên mạng xã hội hiện nay
+
+Đề tài nhóm chọn: Tác động của mạng xã hội Facebook đến nhận thức và hành vi của giới trẻ hiện nay
 
 1. Khái niệm của Facebook? (what)
   - Facebook là một trong những mạng xã hội hàng đầu thế giới hiện nay, là nơi kết nối tất cả mọi người lại với nhau trên toàn thế giới
