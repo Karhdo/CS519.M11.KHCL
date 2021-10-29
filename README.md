@@ -126,7 +126,7 @@ và phản bác lại những ý kiến trái chiều.
   - Chúng ta không nên để nước tới chân mới nhảy, nó sẽ làm chúng ta trì trệ theo từng ngày
   
 ### Week 7: Luyện tập chọn và đặt câu hỏi cho nghiên cứu khoa học.
-#### Đề tài nghiên cứu: Mạng xã hội - [video tham khảo](https://www.youtube.com/watch?v=EEuul8hBip8)
+#### Đề tài nghiên cứu: Mạng xã hội - [Video tham khảo](https://www.youtube.com/watch?v=EEuul8hBip8)
 Indetify:
 - Tác động của mạng xã hội Facebook đến nhận thức và hành vi của giới trẻ hiện nay
 - Nghiên cứu đề xuất xây dựng mạng xã hội học tập tại Việt Nam
