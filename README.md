@@ -169,36 +169,36 @@ có trạng thái nôn nao, khó chịu, buồn bã…
 một cách sâu sắc hơn
 
   * Lần đầu tiên: 
-  - Lần đầu tiên là đọc nhanh để có cái nhìn chung về bài báo, quá trình này sẽ mất khoảng 5 - 10p
-    + Đọc kỹ tiêu đề, phần tóm tắt và phần giới thiệu
-    + Đọc tiêu đề các phần khác, bỏ qua nội dung
-    + Đọc phần kết luận
-    + Đọc lướt qua tài liệu tham khảo và đánh dấu những gì mình đã đọc
+    - Lần đầu tiên là đọc nhanh để có cái nhìn chung về bài báo, quá trình này sẽ mất khoảng 5 - 10p
+      + Đọc kỹ tiêu đề, phần tóm tắt và phần giới thiệu
+      + Đọc tiêu đề các phần khác, bỏ qua nội dung
+      + Đọc phần kết luận
+      + Đọc lướt qua tài liệu tham khảo và đánh dấu những gì mình đã đọc
 
-  - Và để vượt qua lần đọc đầu tiên, bạn phải trả lời 5 câu hỏi chữ C:
-    + Category(Thể loại)
-    + Context(Bối cảnh)
-    + Correctness(Tính đúng đắn)
-    + Contributions(Đóng góp)
-    + Clarity(Tính rõ ràng)
+    - Và để vượt qua lần đọc đầu tiên, bạn phải trả lời 5 câu hỏi chữ C:
+      + Category(Thể loại)
+      + Context(Bối cảnh)
+      + Correctness(Tính đúng đắn)
+      + Contributions(Đóng góp)
+      + Clarity(Tính rõ ràng)
 
   * Lần thứ hai:
-  - Đọc bài báo một cách cẩn thận hơn, nhưng bỏ qua một vài chi tiết như bằng chứng
-    + Xem kỹ các bảng biểu, sơ đồ, các hình minh họa trong bài báo, đặc biệt là các đồ thị
-    + Đánh dấu những tài liệu tham khảo chưa đọc có liên quan để đọc thêm
-  - Lần đọc thứ hai sẽ mất thời gian khoảng 1 giờ. Sau khi vượt qua này, bạn sẽ có thể nắm được nội dung của bài báo. 
-  - Đôi khi đọc lần hai bạn sẽ không hiểu bài báo ngay. Điều này có lẽ do chủ đề này mới đối với bạn. 
-  Lúc này bạn có thể chọn:
-    + Đặt bài báo sang một bên, hy vọng không cần hiểu tài liệu mà vẫn thành công trong sự nghiệp
-    + Quay lại bài báo sau, có lẽ sau khi đọc tài liệu nền tảng hoặc
-    + Kiên trì và đi tiếp đến đường chuyền thứ ba.
+    - Đọc bài báo một cách cẩn thận hơn, nhưng bỏ qua một vài chi tiết như bằng chứng
+      + Xem kỹ các bảng biểu, sơ đồ, các hình minh họa trong bài báo, đặc biệt là các đồ thị
+      + Đánh dấu những tài liệu tham khảo chưa đọc có liên quan để đọc thêm
+    - Lần đọc thứ hai sẽ mất thời gian khoảng 1 giờ. Sau khi vượt qua này, bạn sẽ có thể nắm được nội dung của bài báo. 
+    - Đôi khi đọc lần hai bạn sẽ không hiểu bài báo ngay. Điều này có lẽ do chủ đề này mới đối với bạn. 
+    Lúc này bạn có thể chọn:
+      + Đặt bài báo sang một bên, hy vọng không cần hiểu tài liệu mà vẫn thành công trong sự nghiệp
+      + Quay lại bài báo sau, có lẽ sau khi đọc tài liệu nền tảng hoặc
+      + Kiên trì và đi tiếp đến đường chuyền thứ ba.
 
   * Lần thứ ba: 
-  - Cố gắng hiện thực lại bài báo
-    + Đưa ra giả định giống tác giả, tạo lại công việc => Điều này không những giúp người đọc xác định những đổi mới 
-    của bài báo mà còn giúp người đọc xác định những thất bại của nghiên cứu và giả định tiềm ẩn của nó.
-    + So sánh bài báo này với các bài báo khác để có được cái nhìn sâu sắc về kĩ thuật được trình bày trong bài báo
-    + Ghi lại những ý tưởng kĩ thuật này để có thể sử dụng vào công việc trong tương lai
-    + Sau khi kết thúc bước này người đọc có thể tạo lại cấu trúc của bài báo, cũng như xác định được điểm mạnh và điểm yếu của nó
+    - Cố gắng hiện thực lại bài báo
+      + Đưa ra giả định giống tác giả, tạo lại công việc => Điều này không những giúp người đọc xác định những đổi mới 
+      của bài báo mà còn giúp người đọc xác định những thất bại của nghiên cứu và giả định tiềm ẩn của nó.
+      + So sánh bài báo này với các bài báo khác để có được cái nhìn sâu sắc về kĩ thuật được trình bày trong bài báo
+      + Ghi lại những ý tưởng kĩ thuật này để có thể sử dụng vào công việc trong tương lai
+      + Sau khi kết thúc bước này người đọc có thể tạo lại cấu trúc của bài báo, cũng như xác định được điểm mạnh và điểm yếu của nó
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2021 - Đỗ Trọng Khánh`
