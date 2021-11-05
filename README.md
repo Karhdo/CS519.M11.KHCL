@@ -189,9 +189,9 @@ một cách sâu sắc hơn
   - Lần đọc thứ hai sẽ mất thời gian khoảng 1 giờ. Sau khi vượt qua này, bạn sẽ có thể nắm được nội dung của bài báo. 
   - Đôi khi đọc lần hai bạn sẽ không hiểu bài báo ngay. Điều này có lẽ do chủ đề này mới đối với bạn. 
   Lúc này bạn có thể chọn:
-    (a) Đặt bài báo sang một bên, hy vọng không cần hiểu tài liệu mà vẫn thành công trong sự nghiệp
-    (b) Quay lại bài báo sau, có lẽ sau khi đọc tài liệu nền tảng hoặc
-    (c) Kiên trì và đi tiếp đến đường chuyền thứ ba.
+    + Đặt bài báo sang một bên, hy vọng không cần hiểu tài liệu mà vẫn thành công trong sự nghiệp
+    + Quay lại bài báo sau, có lẽ sau khi đọc tài liệu nền tảng hoặc
+    + Kiên trì và đi tiếp đến đường chuyền thứ ba.
 
   * Lần thứ ba: 
   - Cố gắng hiện thực lại bài báo
