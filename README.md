@@ -158,5 +158,47 @@ có trạng thái nôn nao, khó chịu, buồn bã…
 5. Tại sao Facebook ảnh hưởng đến nhận thức và hành vi của giới trẻ? (why)
   - Facebook là nơi phát tán nhiều thông tin "nhảm", những hình ảnh, video bạo lực,...  ảnh hưởng đến tinh thần của giới trẻ
   - Trong những bài viết gây xôn xao dư luận, có rất nhiều bình luận mang tính tiêu cực ảnh hưởng đến người khác
+  
+### Week 8: Báo Cáo Bài Làm Ở Week 7
+  
+### Week 9: Phương Pháp Đọc Bài Báo Khoa Học
+#### Phương pháp để đọc bài báo khoa học - THREE-PASS(Đọc 3 lần)
+
+  - Ý tưởng chính của phương pháp đọc 3 lần là bạn nên đọc bài báo tối đa 3 lần thay vì đọc 1 lần từ đầu đến cuối
+  - Lần đọc đầu tiên sẽ cung cấp ý tưởng chung về bài báo, lần thứ hai sẽ nắm được nội dung bài báo, lần thứ ba giúp bạn hiểu bài báo 
+một cách sâu sắc hơn
+
+  * Lần đầu tiên: 
+  - Lần đầu tiên là đọc nhanh để có cái nhìn chung về bài báo, quá trình này sẽ mất khoảng 5 - 10p
+    + Đọc kỹ tiêu đề, phần tóm tắt và phần giới thiệu
+    + Đọc tiêu đề các phần khác, bỏ qua nội dung
+    + Đọc phần kết luận
+    + Đọc lướt qua tài liệu tham khảo và đánh dấu những gì mình đã đọc
+
+  - Và để vượt qua lần đọc đầu tiên, bạn phải trả lời 5 câu hỏi chữ C:
+    + Category(Thể loại)
+    + Context(Bối cảnh)
+    + Correctness(Tính đúng đắn)
+    + Contributions(Đóng góp)
+    + Clarity(Tính rõ ràng)
+
+  * Lần thứ hai:
+  - Đọc bài báo một cách cẩn thận hơn, nhưng bỏ qua một vài chi tiết như bằng chứng
+    + Xem kỹ các bảng biểu, sơ đồ, các hình minh họa trong bài báo, đặc biệt là các đồ thị
+    + Đánh dấu những tài liệu tham khảo chưa đọc có liên quan để đọc thêm
+  - Lần đọc thứ hai sẽ mất thời gian khoảng 1 giờ. Sau khi vượt qua này, bạn sẽ có thể nắm được nội dung của bài báo. 
+  - Đôi khi đọc lần hai bạn sẽ không hiểu bài báo ngay. Điều này có lẽ do chủ đề này mới đối với bạn. 
+  Lúc này bạn có thể chọn:
+    (a) Đặt bài báo sang một bên, hy vọng không cần hiểu tài liệu mà vẫn thành công trong sự nghiệp
+    (b) Quay lại bài báo sau, có lẽ sau khi đọc tài liệu nền tảng hoặc
+    (c) Kiên trì và đi tiếp đến đường chuyền thứ ba.
+
+  * Lần thứ ba: 
+  - Cố gắng hiện thực lại bài báo
+    + Đưa ra giả định giống tác giả, tạo lại công việc => Điều này không những giúp người đọc xác định những đổi mới 
+    của bài báo mà còn giúp người đọc xác định những thất bại của nghiên cứu và giả định tiềm ẩn của nó.
+    + So sánh bài báo này với các bài báo khác để có được cái nhìn sâu sắc về kĩ thuật được trình bày trong bài báo
+    + Ghi lại những ý tưởng kĩ thuật này để có thể sử dụng vào công việc trong tương lai
+    + Sau khi kết thúc bước này người đọc có thể tạo lại cấu trúc của bài báo, cũng như xác định được điểm mạnh và điểm yếu của nó
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2021 - Đỗ Trọng Khánh`
