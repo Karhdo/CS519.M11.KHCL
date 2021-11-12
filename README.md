@@ -205,6 +205,6 @@ một cách sâu sắc hơn
     + Sử dụng kỹ thuật Neural Style Transfer, đề xuất một mạng đầu cuối mới ACN (ArtCode-Net) để tạo mã QR stylized
     + Để giải quyết thách thức về việc duy trì độ mạnh quét sau khi cung cấp các phần tử kiểu mã như vậy, họ 
       đề xuất thêm lớp Sampling-Simulation, mật mã dựa trên mô-đun và cơ chế cạnh tranh để cải thiện hiệu suất của ACN
-  - Bài báo: <a href = 'https://openaccess.thecvf.com/content/CVPR2021/html/Su_ArtCoder_An_End-to-End_Method_for_Generating_Scanning-Robust_Stylized_QR_Codes_CVPR_2021_paper.html'>Link bài báo</a>
+  - Bài báo: <a href = 'https://openaccess.thecvf.com/content/CVPR2021/html/Su_ArtCoder_An_End-to-End_Method_for_Generating_Scanning-Robust_Stylized_QR_Codes_CVPR_2021_paper.html'>ArtCoder: An End-to-End Method for Generating Scanning-Robust Stylized QR Codes</a>
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2021 - Đỗ Trọng Khánh`
