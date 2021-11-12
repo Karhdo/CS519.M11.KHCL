@@ -195,5 +195,16 @@ một cách sâu sắc hơn
       + So sánh bài báo này với các bài báo khác để có được cái nhìn sâu sắc về kĩ thuật được trình bày trong bài báo
       + Ghi lại những ý tưởng kĩ thuật này để có thể sử dụng vào công việc trong tương lai
       + Sau khi kết thúc bước này người đọc có thể tạo lại cấu trúc của bài báo, cũng như xác định được điểm mạnh và điểm yếu của nó
+### Week 10: Thực Hành Đọc Bài Báo Khoa Học
+  1. What is the problem?
+    - Sử dụng phương pháp End-to-end để tạo mã QR stylized có khả năng quét mạnh
+  2. What are the key components of my approach and results? Also include any specific limitations.
+    - Mã QR là một trong những mã hai chiều được sử dụng nhiều nhất trên toàn thế giới, xuất hiện dưới
+    dạng bộ sưu tập ngẫu nhiên của các mô-đun đen trắng thiếu các yếu tố thẩm mỹ và ngữ nghĩa trực quan
+  - QR stylized là mã QR đã được cá nhân hóa, đa dạng, hấp dẫn và quét mạnh mẽ
+  - Sử dụng kỹ thuật Neural Style Transfer, đề xuất một mạng đầu cuối mới ACN (ArtCode-Net) để tạo mã QR stylized
+  - Để giải quyết thách thức về việc duy trì độ mạnh quét sau khi cung cấp các phần tử kiểu mã như vậy, họ 
+    đề xuất thêm lớp Sampling-Simulation, mật mã dựa trên mô-đun và cơ chế cạnh tranh để cải thiện hiệu suất của ACN
+  3. Bài báo: <a href = 'https://openaccess.thecvf.com/content/CVPR2021/html/Su_ArtCoder_An_End-to-End_Method_for_Generating_Scanning-Robust_Stylized_QR_Codes_CVPR_2021_paper.html'>Link bài báo</a>
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2021 - Đỗ Trọng Khánh`
