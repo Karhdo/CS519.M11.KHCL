@@ -187,11 +187,6 @@ một cách sâu sắc hơn
       + Xem kỹ các bảng biểu, sơ đồ, các hình minh họa trong bài báo, đặc biệt là các đồ thị
       + Đánh dấu những tài liệu tham khảo chưa đọc có liên quan để đọc thêm
     - Lần đọc thứ hai sẽ mất thời gian khoảng 1 giờ. Sau khi vượt qua này, bạn sẽ có thể nắm được nội dung của bài báo. 
-    - Đôi khi đọc lần hai bạn sẽ không hiểu bài báo ngay. Điều này có lẽ do chủ đề này mới đối với bạn. 
-    Lúc này bạn có thể chọn:
-      + Đặt bài báo sang một bên, hy vọng không cần hiểu tài liệu mà vẫn thành công trong sự nghiệp
-      + Quay lại bài báo sau, có lẽ sau khi đọc tài liệu nền tảng hoặc
-      + Kiên trì và đi tiếp đến đường chuyền thứ ba.
 
   * Lần thứ ba: 
     - Cố gắng hiện thực lại bài báo
