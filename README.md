@@ -219,7 +219,7 @@ một cách sâu sắc hơn
   - Công cụ quản lý thời gian
     + Mô hình này giúp phân loại công việc thành các nhóm theo những tiêu chí quan trọng, khẩn cấp, không quan trọng, không khẩn cấp và giúp chúng ta quyết định nên làm việc nào trước
     + <img src = "https://github.com/trong-khanh-1109/CS519.M11.KHCL/blob/58435365a41115839b52071d4179a3d189548f9a/Image/congcuquanlythoigian.png">
-    + Loại công việc quan trọng và khẩn cấp: Đây là loại công việc vừa ảnh hưởng đến tương lai vừa cần được giải quyết ngay. Loại công việc này cần được xử lý ngay lập tức, trước tất cả các hoạt động khác. Ví dụ: 
+    + Loại công việc quan trọng và khẩn cấp: Đây là loại công việc vừa ảnh hưởng đến tương lai vừa cần được giải quyết ngay. Loại công việc này cần được xử lý ngay lập tức, trước tất cả các hoạt động khác. Ví dụ: Có bài báo cáo môn học ABC vào ngày mai,...
     + Loại công việc quan trọng nhưng không khẩn cấp: Những công việc đóng góp cho tương lai, nhưng không nhất thiết phải làm ngay lập tức. Ví dụ: Mỗi ngày làm 2 bài Reading 2 bài Listenning để chuẩn bị cho kì thi TOEIC 2 tháng tới, tập gym để duy trì sức khỏe,…
     + Loại công việc không quan trọng nhưng khẩn cấp: Đây là những việc như cuộc gọi từ vài người bạn cũ, trả lời mail, tin nhắn hay gọi điện cho gia đình,… .Nhiều người thường ưu tiên công việc này trước vì có cảm giác nó cấp bách, không thể bỏ lỡ. Nhưng công việc không quan trọng nên được xếp sau. Không nên để một ngày quay cuồng trong một công việc không giúp ích cho tương lai của bản thân
     + Loại công việc không quan trọng cũng không khẩn cấp: Đây là những công việc được xếp sau cùng: Lướt facebook, xem phim hay những hoạt động giải trí,… .Chúng ta phải đảm bảo những công việc phía trên hoàn thành xong mới đến công việc này
